@@ -5,7 +5,7 @@
 
 - 🌱 지금 배우고 있는 것 **정보처리기사**
 
-- 📝 블로그 [https://blog.naver.com/jmsjms0915](https://blog.naver.com/jmsjms0915)
+- 📝 블로그 [https://blog.naver.com/m1ns1c](https://blog.naver.com/m1ns1c)
 
 - 📫 이메일 **minsighageul@gmail.com**
 
