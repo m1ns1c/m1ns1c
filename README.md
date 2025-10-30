@@ -4,8 +4,6 @@
 컴퓨터공학을 전공하고 있으며, 알고리즘과 시스템 기반 기술을 중심으로 성장하고 있습니다.
 
 - 🌱 현재 학습 중: **정보처리기사**
-- 📝 블로그: https://blog.naver.com/m1ns1c
-- 📫 이메일: **minsighageul@gmail.com**
 - 🧾 자격증: 한글A / 파워포인트A / 엑셀A / 컴활1급 / 정보기기운용기능사 / 정보처리기능사 / 전산회계1급 / 지게차
 - 🏆 수상: 해커톤 최우수·우수 / 프로그래밍 경진대회 충남1등·전국3등 / 아두이노 창업대회 최우수 등
 - 📚 경력: 고등학교(소프트웨어개발과 3년) → 대학(컴퓨터공학 4년제 재학) → 코딩학원 강의 2년
@@ -78,12 +76,12 @@ Linux / MySQL / Git / VS Code / Photoshop / Illustrator
 
 ### 🧩 Algorithm (Baekjoon / solved.ac)
 <p>
-  <a href="https://solved.ac/profile/m1ns1c">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=m1ns1c" />
+  <a href="https://solved.ac/profile/jms6424">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=jms6424" />
   </a>
   &nbsp;
   <a href="https://solved.ac/profile/m1ns1c">
-    <img src="https://mazandi.herokuapp.com/api?handle=m1ns1c&theme=warm" />
+    <img src="https://mazandi.herokuapp.com/api?handle=jms6424&theme=warm" />
   </a>
 </p>
 
@@ -128,5 +126,5 @@ Linux / MySQL / Git / VS Code / Photoshop / Illustrator
 
 ### 📮 Contact
 - Blog: https://blog.naver.com/m1ns1c  
-- Email: **minsighageul@gmail.com**  
+- Email: **jms62436423@gmail.com**  
 - Discord: **alstlr**
