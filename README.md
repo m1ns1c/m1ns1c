@@ -31,7 +31,7 @@ Linux / MySQL / Git / VS Code / Photoshop / Illustrator
 
 ---
 
-### Current Goals (2025)
+### Current Goals (2025 - 2027)
 
 - 정보처리기사 취득
 - 알고리즘 심화 (효율성·구조 개선 중심)
