@@ -126,5 +126,5 @@ Linux / MySQL / Git / VS Code / Photoshop / Illustrator
 
 ### 📮 Contact
 - Blog: https://blog.naver.com/m1ns1c  
-- Email: **jms62436423@gmail.com**  
+- Email: **minsichi6@gmail.com**  
 - Discord: **alstlr**
