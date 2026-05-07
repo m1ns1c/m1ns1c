@@ -21,7 +21,7 @@ Linux / MySQL / Git / VS Code / Photoshop / Illustrator
 ### Highlighted Projects
 
 - **algorithm** — 백준/PS 문제 풀이 및 알고리즘 학습  
-  https://github.com/m1ns1c/algorithm
+  https://github.com/m1ns1c/Beakjoon
 
 - **arduino-startups** — 아두이노 기반 창업 프로젝트 실습 코드  
   https://github.com/m1ns1c/arduino-startups
