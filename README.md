@@ -29,6 +29,9 @@ Linux / MySQL / Git / VS Code / Photoshop / Illustrator
 - **android-study** — Kotlin/Android 연습 프로젝트 모음  
   https://github.com/m1ns1c/android-study
 
+- **mcserver-dashboard** — Minecraft 서버 실시간 모니터링 대시보드 (Spring Boot + RCON + 로그 파싱)  
+  https://github.com/m1ns1c/mcserver-dashboard
+
 ---
 
 ### Current Goals (2025 - 2028)
