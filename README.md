@@ -80,6 +80,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square" />
 </p>
@@ -114,17 +115,21 @@ JWT 인증, 분석 히스토리 저장, Apple M1 Pro MPS 가속 학습 환경 �
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square)
 
-Android Studio + Java + Groq API(LLaMA 3.3 70B) + Java Socket 멀티플레이  
-369, 007빵, 끝말잇기 등 11개 게임 · 코인 리워드 시스템 · 음료 교환 기능
+순천향대 마스코트 스칼라와 함께 즐기는 AI 술게임 트레이닝 앱.  
+Groq API(LLaMA 3.3 70B) AI 모드 + Java Socket 로컬 멀티플레이 지원.  
+369, 007빵, 끝말잇기 등 **11개 게임** · 코인 적립 · 교내 음료 18종 교환 시스템.  
+[📥 APK 다운로드](https://github.com/m1ns1c/ScalaApp/blob/main/ScalaApp.apk)
 
 ---
 
 ### 🖥️ [mcserver-dashboard](https://github.com/m1ns1c/mcserver-dashboard) — Minecraft 서버 실시간 모니터링
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java_21-007396?logo=openjdk&logoColor=white&style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white&style=flat-square)
 
-Spring Boot + RCON 프로토콜 + 로그 파싱으로 서버 상태를 실시간으로 시각화.  
-직접 운영하던 서버 관리의 불편함을 해결하기 위해 시작한 프로젝트.
+직접 운영하는 Minecraft 서버(`minsic.feathermc.gg`)를 웹에서 모니터링하기 위해 개발.  
+RCON 프로토콜로 접속 플레이어 실시간 조회 · 서버 로그 파싱으로 플레이어 통계 표시.  
+30초마다 자동 새로고침.
 
 ---
 
@@ -132,11 +137,11 @@ Spring Boot + RCON 프로토콜 + 로그 파싱으로 서버 상태를 실시간
 
 | 레포 | 설명 | 언어 |
 |------|------|------|
-| [java-study](https://github.com/m1ns1c/java-study) | Java OOP · JVM · 자료구조 학습 | ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square) |
+| [java-study](https://github.com/m1ns1c/java-study) | Java OOP · JVM · 자료구조 학습 기록 | ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square) |
 | [sch-coursework](https://github.com/m1ns1c/sch-coursework) | 대학 과제 모음 (C · 자료구조 · 디지털로직) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square) |
 | [algorithm-practice](https://github.com/m1ns1c/algorithm-practice) | 알고리즘 심화 연습 | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) |
 | [baekjoon](https://github.com/m1ns1c/baekjoon) | 백준 PS 풀이 아카이브 | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) |
-| [code-club](https://github.com/m1ns1c/code-club) | Python 코드클럽 실습 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [code-club](https://github.com/m1ns1c/code-club) | Python 코드클럽 실습 기록 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 
 ---
 
