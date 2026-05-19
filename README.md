@@ -1,12 +1,9 @@
-<!-- 방문자 카운터 -->
-<p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm1ns1c&count_bg=%230D1117&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true" />
-</p>
-
 <!-- 타이핑 배너 -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=58A6FF&width=600&lines=Hi%2C+I'm+Minsic+%F0%9F%91%8B;CS+%26+Algorithm+%7C+Android+%7C+Medical+AI;Always+building+something+new." alt="Typing SVG" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=m1ns1c&color=0D1117&style=flat-square&label=visitors)
 
 ---
 
@@ -28,9 +25,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api?username=m1ns1c&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=m1ns1c&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/top-langs/?username=m1ns1c&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=m1ns1c&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="left">
@@ -42,7 +39,7 @@
 ## ⏱️ WakaTime Coding Activity
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/wakatime?username=m1ns1c&theme=github_dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/wakatime?username=m1ns1c&theme=github_dark&hide_border=true&layout=compact" />
 </p>
 
 ---
