@@ -134,7 +134,6 @@ Spring Boot + RCON 프로토콜 + 로그 파싱으로 서버 상태를 실시간
 
 Android Studio + Java + Groq API(LLaMA 3.3 70B) + Java Socket 멀티플레이  
 369, 007빵, 끝말잇기 등 11개 게임 · 코인 리워드 시스템 · 음료 교환 기능  
-팀 해커톤 출품작 → **최우수상 수상**
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=m1ns1c&repo=ScalaApp&theme=github_dark&hide_border=true" />
 
