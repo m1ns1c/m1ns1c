@@ -108,53 +108,50 @@
 
 ## 🚀 Highlighted Projects
 
-### 🫁 [xray-diagnosis](https://github.com/m1ns1c/xray-diagnosis)
-> 흉부 X-ray 정상/비정상 분류 AI 시스템
+### 🫁 [xray-diagnosis](https://github.com/m1ns1c/xray-diagnosis) — 흉부 X-ray 정상/비정상 분류 AI 시스템
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
 ResNet50 전이학습 기반 의료 AI + Spring Boot 백엔드 + FastAPI AI 서버 연동.  
 RSNA Pneumonia Detection 데이터셋 26,684장으로 학습, **분류 정확도 94.77%** 달성.  
 JWT 인증, 분석 히스토리 저장, Apple M1 Pro MPS 가속 학습 환경 구축.
 
-<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=xray-diagnosis&theme=github_dark&hide_border=true" />
-
 ---
 
-### 🖥️ [mcserver-dashboard](https://github.com/m1ns1c/mcserver-dashboard)
-> Minecraft 서버 실시간 모니터링 대시보드
+### 🖥️ [mcserver-dashboard](https://github.com/m1ns1c/mcserver-dashboard) — Minecraft 서버 실시간 모니터링
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
 
 Spring Boot + RCON 프로토콜 + 로그 파싱으로 서버 상태를 실시간으로 시각화.  
 직접 운영하던 서버 관리의 불편함을 해결하기 위해 시작한 프로젝트.
 
-<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=mcserver-dashboard&theme=github_dark&hide_border=true" />
-
 ---
 
-### 📱 [ScalaApp](https://github.com/m1ns1c/ScalaApp)
-> 순천향대학교 마스코트 스칼라 기반 AI 술게임 앱
+### 📱 [ScalaApp](https://github.com/m1ns1c/ScalaApp) — AI 술게임 앱 (해커톤 최우수상)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square)
 
 Android Studio + Java + Groq API(LLaMA 3.3 70B) + Java Socket 멀티플레이  
-369, 007빵, 끝말잇기 등 11개 게임 · 코인 리워드 시스템 · 음료 교환 기능  
-팀 해커톤 출품작 → **최우수상 수상**
-
-<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=ScalaApp&theme=github_dark&hide_border=true" />
+369, 007빵, 끝말잇기 등 11개 게임 · 코인 리워드 시스템 · 음료 교환 기능
 
 ---
 
-### 📚 [Beakjoon (algorithm)](https://github.com/m1ns1c/Beakjoon)
-> 백준 Online Judge 알고리즘 풀이 아카이브
+### 📚 [Beakjoon](https://github.com/m1ns1c/Beakjoon) — 알고리즘 풀이 아카이브
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 PS 문제 풀이 및 알고리즘 학습 기록. 효율성·구조 개선 중심으로 꾸준히 업데이트 중.
 
-<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=Beakjoon&theme=github_dark&hide_border=true" />
-
 ---
 
-### ⚡ [arduino-startups](https://github.com/m1ns1c/arduino-startups)
-> 아두이노 기반 창업 프로젝트 실습
+### ⚡ [arduino-startups](https://github.com/m1ns1c/arduino-startups) — 창업대회 최우수상
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 
-하드웨어-소프트웨어 통합 창업 아이디어를 아두이노로 구현 → **창업대회 최우수상**
-
-<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=arduino-startups&theme=github_dark&hide_border=true" />
+하드웨어-소프트웨어 통합 창업 아이디어를 아두이노로 구현.
 
 ---
 
