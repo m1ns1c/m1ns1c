@@ -28,9 +28,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=m1ns1c&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api?username=m1ns1c&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ns1c&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/top-langs/?username=m1ns1c&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="left">
@@ -42,7 +42,7 @@
 ## ⏱️ WakaTime Coding Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=m1ns1c&theme=github_dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/wakatime?username=m1ns1c&theme=github_dark&hide_border=true&layout=compact" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ ResNet50 전이학습 기반 의료 AI + Spring Boot 백엔드 + FastAPI AI 서�
 RSNA Pneumonia Detection 데이터셋 26,684장으로 학습, **분류 정확도 94.77%** 달성.  
 JWT 인증, 분석 히스토리 저장, Apple M1 Pro MPS 가속 학습 환경 구축.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m1ns1c&repo=xray-diagnosis&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=xray-diagnosis&theme=github_dark&hide_border=true" />
 
 ---
 
@@ -125,7 +125,7 @@ JWT 인증, 분석 히스토리 저장, Apple M1 Pro MPS 가속 학습 환경 �
 Spring Boot + RCON 프로토콜 + 로그 파싱으로 서버 상태를 실시간으로 시각화.  
 직접 운영하던 서버 관리의 불편함을 해결하기 위해 시작한 프로젝트.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m1ns1c&repo=mcserver-dashboard&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=mcserver-dashboard&theme=github_dark&hide_border=true" />
 
 ---
 
@@ -134,8 +134,9 @@ Spring Boot + RCON 프로토콜 + 로그 파싱으로 서버 상태를 실시간
 
 Android Studio + Java + Groq API(LLaMA 3.3 70B) + Java Socket 멀티플레이  
 369, 007빵, 끝말잇기 등 11개 게임 · 코인 리워드 시스템 · 음료 교환 기능  
+팀 해커톤 출품작 → **최우수상 수상**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m1ns1c&repo=ScalaApp&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=ScalaApp&theme=github_dark&hide_border=true" />
 
 ---
 
@@ -144,7 +145,7 @@ Android Studio + Java + Groq API(LLaMA 3.3 70B) + Java Socket 멀티플레이
 
 PS 문제 풀이 및 알고리즘 학습 기록. 효율성·구조 개선 중심으로 꾸준히 업데이트 중.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m1ns1c&repo=Beakjoon&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=Beakjoon&theme=github_dark&hide_border=true" />
 
 ---
 
@@ -153,7 +154,7 @@ PS 문제 풀이 및 알고리즘 학습 기록. 효율성·구조 개선 중심
 
 하드웨어-소프트웨어 통합 창업 아이디어를 아두이노로 구현 → **창업대회 최우수상**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m1ns1c&repo=arduino-startups&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterorloving-anuraghazras-projects.vercel.app/api/pin/?username=m1ns1c&repo=arduino-startups&theme=github_dark&hide_border=true" />
 
 ---
 
