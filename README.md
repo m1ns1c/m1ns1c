@@ -5,7 +5,7 @@
 
 <!-- 타이핑 배너 -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=58A6FF&width=600&lines=Hi%2C+I'm+Minsic+%F0%9F%91%8B;CS+%26+Algorithm+%7C+Android+%7C+Embedded;Always+building+something+new." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=58A6FF&width=600&lines=Hi%2C+I'm+Minsic+%F0%9F%91%8B;CS+%26+Algorithm+%7C+Android+%7C+Medical+AI;Always+building+something+new." alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 코드로 문제를 해결하는 순간에 가장 큰 보람을 느끼는 개발자입니다.  
 소프트웨어개발과 출신으로 고등학교 3년, 대학교 재학 중까지 꾸준히 개발을 이어오고 있으며,  
-알고리즘·시스템·임베디드·모바일 등 폭넓은 영역을 탐색하며 **문제 구조를 먼저 이해하는 개발 습관**을 쌓아가고 있습니다.
+알고리즘·시스템·임베디드·모바일·의료 AI 등 폭넓은 영역을 탐색하며 **문제 구조를 먼저 이해하는 개발 습관**을 쌓아가고 있습니다.
 
 > *"잘 만든 코드 한 줄이 긴 설명보다 낫다."*
 
@@ -89,6 +89,8 @@
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square" />
 </p>
@@ -105,6 +107,17 @@
 ---
 
 ## 🚀 Highlighted Projects
+
+### 🫁 [xray-diagnosis](https://github.com/m1ns1c/xray-diagnosis)
+> 흉부 X-ray 정상/비정상 분류 AI 시스템
+
+ResNet50 전이학습 기반 의료 AI + Spring Boot 백엔드 + FastAPI AI 서버 연동.  
+RSNA Pneumonia Detection 데이터셋 26,684장으로 학습, **분류 정확도 94.77%** 달성.  
+JWT 인증, 분석 히스토리 저장, Apple M1 Pro MPS 가속 학습 환경 구축.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m1ns1c&repo=xray-diagnosis&theme=github_dark&hide_border=true" />
+
+---
 
 ### 🖥️ [mcserver-dashboard](https://github.com/m1ns1c/mcserver-dashboard)
 > Minecraft 서버 실시간 모니터링 대시보드
