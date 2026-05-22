@@ -170,7 +170,7 @@ RCON 프로토콜로 접속 플레이어 실시간 조회 · 서버 로그 파�
 ## 🥇 Awards & Activities
 
 <details>
-  <summary><b>수상 내역 상세 보기 (6건)</b></summary>
+  <summary><b>수상 내역 상세 보기 (8건)</b></summary>
   <br/>
 
   | 대회 / 활동 | 수상 | 주최 |
