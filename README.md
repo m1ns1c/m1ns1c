@@ -111,7 +111,7 @@ JWT 인증, 분석 히스토리 저장, Apple M1 Pro MPS 가속 학습 환경 �
 
 ---
 
-### 📱 [ScalaApp](https://github.com/m1ns1c/ScalaApp) — AI 술게임 앱 (해커톤 최우수상)
+### 📱 [ScalaApp](https://github.com/m1ns1c/ScalaApp) — AI 술게임 앱
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square)
 
