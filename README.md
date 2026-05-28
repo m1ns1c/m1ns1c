@@ -54,14 +54,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=m1ns1c&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=7" />
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 **Languages**
