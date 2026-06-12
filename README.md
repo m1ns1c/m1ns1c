@@ -17,7 +17,6 @@
 
 - 🎓 순천향대학교 컴퓨터공학과 재학 (2학년)
 - 🌱 현재 학습 중: **정보처리기사** · 알고리즘 심화
-- 🏆 AI해커톤 최우수상(2회) / 충남상업경진대회 은상 / 미래유망분야 연수 우수상 외 다수
 - 🔗 Blog: [blog.naver.com/m1ns1c](https://blog.naver.com/m1ns1c) · Email: **minsichi6@gmail.com** · Discord: **alstlr**
 
 ---
